@@ -1,0 +1,4 @@
+case,language,num_particles,rmse,time_mean_sec,time_std_sec
+case1_linear_gaussian,Fortran (OpenMP),10000,  0.633777,  1.252708,  0.008956
+case2_gordon_nonlinear,Fortran (OpenMP),10000,  0.502853,  1.165703,  0.022174
+case3_positive_rw_poisson,Fortran (OpenMP),10000,  0.869950,  1.098425,  0.019481

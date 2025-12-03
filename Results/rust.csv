@@ -1,0 +1,4 @@
+case,language,num_particles,rmse,time_mean_sec,time_std_sec
+case1_linear_gaussian,Rust (Optimized),10000,0.633718,1.545272,0.008155
+case2_gordon_nonlinear,Rust (Optimized),10000,0.503319,1.410424,0.016596
+case3_positive_rw_poisson,Rust (Optimized),10000,0.871329,1.520706,0.013491
